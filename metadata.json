@@ -1,0 +1,6 @@
+{
+  "name": "AI Recipe Book",
+  "description": "An elite, immersive gourmet culinary workspace and smart assistant. Merges Perplexity-style smart gastronomy search, real-time recipe synthesis with Gemini, waste-reducing cupboard matcher, and premium day-by-day metabolic diaries under an ultimate orange-gold glassmorphic theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
