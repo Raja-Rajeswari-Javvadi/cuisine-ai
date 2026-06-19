@@ -220,8 +220,6 @@ Add screenshots of:
 
 B.Tech – Computer Science & Engineering (Data Science)
 
-Sasi Institute of Technology & Engineering
-
 GitHub:
 https://github.com/Raja-Rajeswari-Javvadi
 
