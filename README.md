@@ -183,8 +183,13 @@ npm start
 Add screenshots of:
 
 - Hero Section
+  <img width="1899" height="887" alt="image" src="https://github.com/user-attachments/assets/7bbd9deb-fd22-4a84-9e01-ef797771f118" />
+
 - AI Recipe Generator
+  <img width="1333" height="878" alt="image" src="https://github.com/user-attachments/assets/bd1ab519-16d1-45b0-b096-28614c160d67" />
+
 - Pantry Matcher
+
 - Weekly Planner
 - AI Chef Assistant
 
