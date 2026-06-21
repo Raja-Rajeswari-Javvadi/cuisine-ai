@@ -6,6 +6,13 @@ CuisineAI is a modern AI-powered culinary platform that helps users generate per
 
 ---
 
+## 🔗 Project Links
+
+- 🌐 Live Demo: https://cuisine-ai.onrender.com/
+- 💻 GitHub Repository: https://github.com/Raja-Rajeswari-Javvadi/cuisine-ai
+
+---
+
 ## ✨ Features
 
 ### 🤖 AI Recipe Generator
